@@ -52,6 +52,7 @@ private void MomentumMovment()
 }
 
 Wall & Jump
+
 public void Jump(InputAction.CallbackContext context)
 {
     if(currentJumpCount > 0)
