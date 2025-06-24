@@ -23,7 +23,7 @@ A custom 2D platformer built in Unity featuring advanced movement mechanics and 
 - R - Roll
 
 ## Screenshots
-![Gameplay Demo](2D_Platformer_Gameplay.mp4)
+![Gameplay Demo](2D Platformer Gameplay.mp4)
 ## How to Play
 
 ## Code Highlights
